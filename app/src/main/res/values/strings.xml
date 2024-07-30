@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="shareButton">Share</string>
+    <string name="nextButton">Next</string>
+    <string name="memes_to_laugh_upon">Memes to laugh Upon</string>
+    <string name="todo">TODO</string>
+</resources>
